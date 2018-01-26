@@ -26,6 +26,6 @@ If the `Jackson2JsonMessageConverter` is used directly, then the log output look
 2018-01-25 20:55:27.432  INFO [-,,,] 86491 --- [cTaskExecutor-1] com.example.demo.MyMessageHandler        : got a message: Hello World!
 ```
 
-Please not the missing trace information in the very last log line.
+Please note the missing trace information in the very last log line.
 
 
